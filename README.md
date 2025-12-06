@@ -11,11 +11,7 @@
 <h1 align="center">Hey there 👋, I'm Roshan Mandal</h1>
 <h3 align="center">full stack developer and AI enthusiast</h3>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=roshann11&theme=gruvbox&column=6&margin-w=10&margin-h=10" />
-  </a>
-</p>
+
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 - 🔭 I’m currently working on [Timetable generator](https://github.com/roshann11/Timetable-Generator)
@@ -68,7 +64,18 @@
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50" height="50"/>
 </p>
 
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=roshann11&theme=gruvbox&column=6&margin-w=10&margin-h=10" />
+  </a>
+</p>
+
 <h3 align="left">🔥   My Stats :</h3>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roshann11&theme=dark&" alt="roshann11" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=roshann11&theme=dark" alt="roshann11" />
+</p>
+
+
+

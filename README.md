@@ -9,7 +9,7 @@
 
 
 <h1 align="center">Hey there 👋, I'm Roshan Mandal</h1>
-<h3 align="center">full stack developer and AI enthusiast</h3>
+<h3 align="center">Full Stack Developer and AI Enthusiast</h3>
 
 
 

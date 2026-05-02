@@ -1,99 +1,120 @@
+<h1 align="center">Hey there 👋, I'm Roshan Mandal</h1>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+💻;AI+Enthusiast+🤖;Building+Scalable+Web+Apps+🚀;MERN+Stack+Developer+⚡;Open+for+Internships+✨&cursor=true" />
+</h3>
+
 <p align="center">
-  <img 
-    src="https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d" 
-    alt="development banner" 
-    width="100%" 
-    style="max-height: 380px; object-fit: cover;"
-  />
+<b>🎓 B.E. Computer Science & Business Systems</b><br>
+<i>India</i>
 </p>
 
+<div align="center">
 
-<h1 align="center">Hey there 👋, I'm Roshan Mandal</h1>
-<h3 align="center">Full Stack Developer and AI Enthusiast</h3>
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:roshanmandal2004.7@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/roshanmandal12/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/roshann11)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/roshan-mandal-4773992a0)
 
+</div>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+
+## 🧑‍💻 About Me
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-- 🔭 I’m currently working on (https://github.com/roshann11/tt-gen)
 
-- 🌱 I’m currently learning **GenAI**
+- 💻 Passionate **Full Stack Developer** focused on real-world products  
+- 🤖 Exploring **Generative AI** and automation tools  
+- 🚀 Strong with **MERN Stack & modern frontend systems**  
+- 📚 Currently improving backend architecture & DSA  
+- 🎯 Open for **Internships / Collaborations / Freelance**  
+- 📫 Reach me at **roshanmandal2004.7@gmail.com**
 
-- 👨‍💻 All of my projects are available at [https://github.com/roshann11](https://github.com/roshann11)
+<br clear="right"/>
 
-- 💬 Ask me about **MERN**
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
-- 📫 How to reach me **roshanmandal2004.7@gmail.com**
+## 🚀 Featured Projects
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1qCd_xIjIAnOdtzco_O1MeJvyh4-4ltYa/edit](https://docs.google.com/document/d/1qCd_xIjIAnOdtzco_O1MeJvyh4-4ltYa/edit)
+| Project | Description |
+|--------|-------------|
+| **tt-gen** | Smart timetable generator with scheduling automation |
+| **code-hub** | Collaborative coding platform with real-time editor |
+| **ClaimGrid** | Claim management and workflow platform |
+| **Ryze AI UI Generator** | AI-powered UI generation tool |
 
-- ⚡ Fun fact **Life Span of a Website is Just 3 Years**
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/roshan-mandal-4773992a0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roshan-mandal-4773992a0" height="30" width="40" /></a>
-<a href="https://instagram.com/dx.roshann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dx.roshann" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/roshan207" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="roshan207" height="30" width="40" /></a>
-<!-- <a href="https://www.leetcode.com/roshanmandal12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="roshanmandal12" height="30" width="40" /></a> -->
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50" height="50" title="HTML5"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50" height="50" title="CSS3"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" title="JavaScript"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50" height="50" title="TypeScript"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50" height="50" title="React"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="50" height="50" title="Next.js"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/vitejs/vitejs-icon.svg" width="50" height="50" title="Vite"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50" height="50" title="Tailwind CSS"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="50" height="50" title="Bootstrap"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="50" height="50" title="Sass"/>
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50" title="Node.js"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="50" height="50" title="Express.js"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="50" height="50" title="MongoDB"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50" title="MySQL"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="50" height="50" title="PostgreSQL"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="50" height="50" title="PHP"/>
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50" title="Python"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="50" height="50" title="NumPy"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50" height="50" title="Pandas"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50" height="50" title="Scikit-learn"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="50" height="50" title="Matplotlib"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="50" height="50" title="Seaborn"/>
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50" title="Git"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="50" height="50" title="Docker"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="50" height="50" title="npm"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="50" height="50" title="Vercel"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/render/render-icon.svg" width="50" height="50" title="Render"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" height="50" title="Postman"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="50" height="50" title="Figma"/>
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50" height="50" title="C"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50" title="C++"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50" title="Java"/>
-</p>
-
-
+## 🧰 Tech Stack
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=roshann11&theme=gruvbox&column=6&margin-w=10&margin-h=10" />
-  </a>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,postgres,tailwind,bootstrap,python,c,cpp,java,git,github,docker,vscode,postman,firebase,figma,vite" />
 </p>
-
-<h3 align="left">🔥   My Stats :</h3>
-
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=roshann11&theme=dark" alt="roshann11" />
+<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+<img src="https://img.shields.io/badge/Antigravity-6C47FF?style=for-the-badge&logoColor=white" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+
+## 📈 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=roshann11&theme=github_dark" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=roshann11&theme=github_dark" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=roshann11&theme=github_dark" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=roshann11&theme=github_dark" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=roshann11&theme=github_dark&utcOffset=5.5" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=roshann11&show_icons=true&theme=radical&hide_border=true" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=roshann11&theme=radical&hide_border=true" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshann11&layout=compact&theme=radical&hide_border=true" width="50%" />
 </p>
 
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=roshann11&theme=gruvbox&column=6&margin-w=10&margin-h=10" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+
+## 🔥 What I'm Working On
+
+- 🤖 Generative AI projects  
+- 💻 Full Stack SaaS products  
+- 📚 DSA + Problem Solving  
+- ⚙️ Backend scaling & architecture  
+- 🚀 Internship opportunities
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+
+## 📬 Connect With Me
+
+<p align="center">
+<a href="https://linkedin.com/in/roshan-mandal-4773992a0"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://github.com/roshann11"><img src="https://skillicons.dev/icons?i=github" /></a>
+<a href="mailto:roshanmandal2004.7@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+<a href="https://instagram.com/dx.roshann"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
+<h3 align="center">✨ Let's Build Something Great Together ✨</h3>

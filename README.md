@@ -26,7 +26,7 @@
 
 - 💻 Passionate **Full Stack Developer** focused on real-world products  
 - 🤖 Exploring **Generative AI** and automation tools  
-- 🚀 Strong with **MERN Stack & modern frontend systems**  
+- 🚀 Strong with **MERN Stack, AI & modern systems**  
 - 📚 Currently improving backend architecture & DSA  
 - 🎯 Open for **Internships / Collaborations / Freelance**  
 - 📫 Reach me at **roshanmandal2004.7@gmail.com**

@@ -18,6 +18,13 @@
 
 </div>
 
+## 🌐 Portfolio Website
+
+<p align="center">
+  <a href="https://portfolio-six-henna-65.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/My_Portfolio-blue?style=for-the-badge&logo=google-chrome" />
+  </a>
+</p>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 ## 🧑‍💻 About Me
@@ -41,7 +48,7 @@
 |--------|-------------|
 | **tt-gen** | Smart timetable generator with scheduling automation |
 | **code-hub** | Collaborative coding platform with real-time editor |
-| **ClaimGrid** | Claim management and workflow platform |
+| **AI-news-Agentic** | Fake news detction, summarization & Credibility Score |
 | **Ryze AI UI Generator** | AI-powered UI generation tool |
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">

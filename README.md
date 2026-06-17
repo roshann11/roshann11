@@ -25,33 +25,59 @@
     <img src="https://img.shields.io/badge/My_Portfolio-blue?style=for-the-badge&logo=google-chrome" />
   </a>
 </p>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Roshan%20Mandal&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%">
+
+---
 
 ## 🧑‍💻 About Me
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 💻 Passionate **Full Stack Developer** focused on real-world products  
-- 🤖 Exploring **Generative AI** and automation tools  
-- 🚀 Strong with **MERN Stack, AI & modern systems**  
-- 📚 Currently improving backend architecture & DSA  
-- 🎯 Open for **Internships / Collaborations / Freelance**  
+- 💻 Passionate **Full Stack Developer** focused on building impactful products
+- 🤖 Exploring **Generative AI, Agentic AI, and Automation**
+- 🚀 Strong with **MERN Stack, Next.js, and Modern Web Technologies**
+- 📚 Consistently improving **Data Structures & Algorithms**
+- 🎯 Open for **Internships, Freelance Projects, and Collaborations**
 - 📫 Reach me at **roshanmandal2004.7@gmail.com**
 
 <br clear="right"/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+---
+
+## 🏆 LeetCode
+
+<p align="center">
+  <a href="https://leetcode.com/u/roshanmandal12/">
+    <img src="https://leetcard.jacoblin.cool/roshanmandal12?theme=dark&font=Baloo&ext=contest" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="./assets/leetcode/badge1.png" width="100"/>
+  <img src="./assets/leetcode/badge2.png" width="100"/>
+  <img src="./assets/leetcode/badge3.png" width="100"/>
+  <img src="./assets/leetcode/badge4.png" width="100"/>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/roshanmandal12/">
+    <img src="https://img.shields.io/badge/View%20My%20LeetCode%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+</p>
+
+---
 
 ## 🚀 Featured Projects
 
 | Project | Description |
-|--------|-------------|
-| **tt-gen** | Smart timetable generator with scheduling automation |
-| **code-hub** | Collaborative coding platform with real-time editor |
-| **AI-news-Agentic** | Fake news detction, summarization & Credibility Score |
-| **Ryze AI UI Generator** | AI-powered UI generation tool |
+|----------|------------|
+| **HireFlow** | recruitment platform featuring job management, search functionality, and seamless API-driven frontend-backend communication |
+| **News Intel** | Fake news detection, summarization, and credibility scoring using AI |
+| **Code Hub** | Real-time collaborative coding platform with live code editing |
+| **TT-Gen** | Automated timetable generation system with scheduling optimization |
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+---
 
 ## 🧰 Tech Stack
 
@@ -64,7 +90,7 @@
 <img src="https://img.shields.io/badge/Antigravity-6C47FF?style=for-the-badge&logoColor=white" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+---
 
 ## 📈 GitHub Stats & Activity
 
@@ -91,27 +117,17 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshann11&layout=compact&theme=radical&hide_border=true" width="50%" />
 </p>
 
+---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+## 🎯 Current Focus
 
+- 🤖 Building AI-powered applications
+- 🚀 Developing scalable full-stack products
+- 📚 Solving Data Structures & Algorithms problems
+- ⚙️ Learning backend architecture and system design
+- 🌱 Contributing to open-source projects
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=roshann11&theme=gruvbox&column=6&margin-w=10&margin-h=10" />
-</p>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
-
-## 🔥 What I'm Working On
-
-- 🤖 Generative AI projects  
-- 💻 Full Stack SaaS products  
-- 📚 DSA + Problem Solving  
-- ⚙️ Backend scaling & architecture  
-- 🚀 Internship opportunities
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+---
 
 ## 📬 Connect With Me
 
@@ -122,6 +138,8 @@
 <a href="https://instagram.com/dx.roshann"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer"/>
 
 <h3 align="center">✨ Let's Build Something Great Together ✨</h3>

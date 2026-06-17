@@ -53,11 +53,12 @@
   </a>
 </p>
 
+<h3 align="center">🏅 Achievements</h3>
+
 <p align="center">
-  <img src="./assets/leetcode/badge1.png" width="100"/>
-  <img src="./assets/leetcode/badge2.png" width="100"/>
-  <img src="./assets/leetcode/badge3.png" width="100"/>
-  <img src="./assets/leetcode/badge4.png" width="100"/>
+  <img src="./assets/100_1080_1080-badge1.png" width="120" alt="100 Days Badge"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="./assets/50_1080_1080-badge2.png" width="120" alt="50 Days Badge"/>
 </p>
 
 <p align="center">
